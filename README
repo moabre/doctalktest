@@ -1,0 +1,16 @@
+# What to do
+
+- [ ] Write get array of users on page load
+- [ ] render the list of users with the UserCard and Address components
+  - [ ] Should the Address Component be a child of the UserCard?
+- [ ] Write A searchbar component that fileters the list of users by name
+- [ ] How would reorganize this? put into files and folders? Documenting? Typescript?
+- [ ] Style the UserCard however you like
+  - [ ] As seen here; show vercel link.
+
+## Bonus
+
+- [ ] Write a component that displays the number of times we fetched the data (right beside the search bar) (should be 1)
+  - [ ] then refetch the data every 5 seconds
+  - [ ] While we are refetching, display a loading spinner
+- [ ] send email onclick email
